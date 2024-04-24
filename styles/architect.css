@@ -21,6 +21,12 @@ body{
     color: #727272;
 }
 
+.section-title{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #131313;
+}
+
 /* Header Styles */
 header{
     background: rgba(255, 144, 14, 0.10);
@@ -52,11 +58,6 @@ nav li a{
     
 }
 
-.nav-title{
-    font-size: 3rem;
-    font-weight: 700;
-    color: #131313;
-}
 
 /* Banner Styles */
 .banner-content{
